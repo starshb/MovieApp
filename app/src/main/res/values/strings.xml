@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+
+    <!-- Rating Popup -->
+    <string name="rate_title">Rate your score!</string>
+
+    <!-- IMDB Popup -->
+    <string name="imdb_title">Open IMDB</string>
+    <string name="imdb_message">This will open the IMDB page in the external web browser. Are you okay?</string>
+
+    <!-- Info Popup -->
+    <string name="info_message">This App is to build beautiful structure of Android app which uses Jetpack Compose.</string>
+
+    <string name="open">Open</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    <string name="retry">Retry</string>
+</resources>
